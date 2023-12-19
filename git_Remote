@@ -1,1 +1,5 @@
-echo 'Happy Day'
+sudo yum install update
+sudo yum install maven git java -y
+wget je kins download link copy to paste
+java -jar jenkins.war
+to generate jenkins access path password 
